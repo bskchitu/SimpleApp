@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "598676322137",
+    "firebase_url": "https://simpleapp-b1069.firebaseio.com",
+    "project_id": "simpleapp-b1069",
+    "storage_bucket": "simpleapp-b1069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598676322137:android:9187f0b168ae0f4abebe48",
+        "android_client_info": {
+          "package_name": "smartherd.com.simpleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598676322137-9u3he415if0knrpg8l50akj36b1se90h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe-iYp3Lr16QicZ0Et9OTR-bP7g43wnDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598676322137-9u3he415if0knrpg8l50akj36b1se90h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
